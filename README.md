@@ -1,5 +1,5 @@
 # uno-game
-TermProject1-UnoGame(Pyhton)
+
 Rules of Simplified Uno
 
 A Simplified Uno deck comes with 72 cards: Yellow, Red, Green and Blue are the four colors of cards and there are two copies of each number 1 through 9, for each color.
