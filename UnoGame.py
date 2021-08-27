@@ -1,5 +1,5 @@
 
-/*    Cse101-TermProject     */
+
 
 import random
 
